@@ -1,0 +1,61 @@
+{     /* todo meu codiguin */      
+margin: 0;
+
+padding: 0;
+
+}
+
+
+
+
+
+
+
+
+header {
+    background-color: red;
+    color: white;
+    font-family: Impact, Arial, Helvetica, sans-serif, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+
+
+
+
+body{ background-color: yellow;
+color: black;
+font-family: Impact, Arial, Helvetica, sans-serif, 'Arial Narrow Bold', sans-serif;
+
+
+
+}
+
+
+
+
+#logo{
+    width: 250                             px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{  background-color: black;
+color: white;
+font-family: Impact, Arial, Helvetica, sans-serif, 'Arial Narrow Bold', sans-serif;
+
+
+
+
+}
